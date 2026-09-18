@@ -174,4 +174,4 @@ O jogador precisa observar os acontecimentos, identificar padrões, relacionar p
 
 No último ciclo, deverá utilizar todo o conhecimento adquirido para tentar **quebrar o padrão e sobreviver**.
 
-> **“Você não precisa sair do balcão. Só precisa prestar atenção.”**
+> **“Você tem o poder de mudar a situação apenas com a observação.”**
